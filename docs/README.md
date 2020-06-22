@@ -1,18 +1,20 @@
-## 前言
+### 酷客互动-大前端团队规范化
 
-[酷客互动 前端团队规范化](https://tla-king.github.io/pt/#/) 前端团队规范化主要目的就是提高团队的开发效率,可以理解为凡事能提升团队开发效率的规范,准则,工具啥的都可以归纳到这个文档里面来
+[酷客互动---大前端团队规范化](https://tla-king.github.io/pt/docs) 前端团队规范化主要目的就是提高团队的开发效率。
 
-<!-- ## 产品体系
+>     能提升团队开发效率的规范,准则,工具啥的
+>     都可以归纳到这个文档里面来, 
+>     后续大家统一按照该文档约定执行。
 
--   **电商商家解决方案：**
-    为各类电商商家提供微信私域流量运营、商品供应链（选品中心）、商城搭建以及运营深度咨询等全链路服务；
--   **新零售商家解决方案：**
-    为线下门店商家提供定制化的行业解决方案，具体服务覆盖客户粉丝标签化管理、商城快速搭建、各类营销工具等服务;
+### 常用技术栈
 
-## 联系我们
+[![React](https://img.shields.io/badge/react-^16.12.0-brightgreen.svg?style=flat-square)](https://github.com/facebook/react)
+[![Ant Design](https://img.shields.io/badge/ant--design-^4.3.3-yellowgreen.svg?style=flat-square)](https://github.com/ant-design/ant-design)
+[![dva](https://img.shields.io/badge/dva-^2.1.0-orange.svg?style=flat-square)](https://github.com/dvajs/dva)
+[![umi](https://img.shields.io/badge/umi-^3.1.4-orange.svg?style=flat-square)](https://github.com/github.com/umijs/umi)
 
--   **电话：** 400-0832-918
--   **邮箱：** service@ixiye.com
--   **地址：** 浙江省杭州市余杭区正元智慧大厦 B 座 16 楼
--   **加入我们：**<br>
-    <img src="./img/wechat.jpeg" width="180" height="180"/> -->
+-   基于[react](https://github.com/facebook/react)，[ant-design](https://github.com/ant-design/ant-design)，[dva](https://github.com/dvajs/dva)，[Mock](https://github.com/nuysoft/Mock) 企业级后台管理系统最佳实践。
+-   基于 Antd UI 设计语言，提供后台管理系统常见使用场景。
+-   基于[dva](https://github.com/dvajs/dva)动态加载 Model 和路由，按需加载。
+-   使用[umi](https://github.com/umijs/umi)本地调试和构建，其中 Mock 功能实现脱离后端独立开发。
+-   基础框架参考[antd-admin](https://github.com/zuiidea/antd-admin)或[antd-pro](https://github.com/umijs/ant-design-pro)
